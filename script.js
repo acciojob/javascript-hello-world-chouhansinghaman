@@ -1,2 +1,2 @@
 //your JS code here. If required.
-console.alert("Hello World!")
+alert("Hello World!")
